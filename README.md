@@ -7,4 +7,5 @@ smartphone thanks to a wifi module (Wemos D1 mini). I followed this online tutor
 I then added some options, like the possibility to make the strip blink, it will be great in the christmas tree !
 
 Here is a look at what the web page looks like :
+
 ![alt text](https://github.com/gaetanBelliere/Arduino/blob/main/images/interface.PNG)
